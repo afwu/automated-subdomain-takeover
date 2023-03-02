@@ -1,2 +1,17 @@
+https://cloudsec.huoxian.cn
+https://coop.huoxian.cn
+https://dongtai.huoxian.cn
+https://git.huoxian.cn
 https://huoxian.cn
+https://log4j2.huoxian.cn
+https://megvii.huoxian.cn
+https://myiast.huoxian.cn
+https://mytest.huoxian.cn
+https://poc.iast.huoxian.cn
+https://public.huoxian.cn
+https://sso.huoxian.cn
+https://sso1.huoxian.cn
+https://tingyun-docker.huoxian.cn
+https://tingyun-git.huoxian.cn
 https://www.huoxian.cn
+https://zone.huoxian.cn
